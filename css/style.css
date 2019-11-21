@@ -1,0 +1,45 @@
+.upper-body-wrapper{
+    background-image: url("../images/upper-body-background.png");
+    background-size: cover;
+   
+    
+}
+
+.phone{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+.header-wrapper{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(0, 0, 0, 0.10);
+    background-color: white;
+    opacity: 0.8;
+}
+.btn-wrapper a{
+ border-radius: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(0, 0, 0, 0.10);
+  width: 140px;
+  height: 44px; 
+  padding :10px 20px 10px 20px; 
+  color: #58b45c;
+  font-size: 14px;
+  font-family:  'Roboto', sans-serif;
+  font-size: 12px;
+  text-decoration: none;
+
+}
+
+.ourclientwrapper h2{
+    font-family:  'Roboto', sans-serif;
+    font-size: 24px;
+    
+    font-weight: 300;
+    color: #303842;
+    padding: 10px 10px 10px 0px;
+  }
+  .ourclientwrapper p{
+    font-family: 'Open Sans', sans-serif;
+    color:#8191a6;
+    font-size: 14px;
+    font-weight: 300;
+  }
